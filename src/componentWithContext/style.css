@@ -1,0 +1,41 @@
+.Common {
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  transition: background-color 150ms ease-out 30ms;
+}
+
+.App {
+  width: 100%;
+  background-color: white;
+}
+
+.App:hover {
+  background-color: #b3e4eb;
+}
+
+.Container {
+  background-color: #d17676;
+}
+
+.Container:hover {
+  background-color: #f12e2e;
+}
+
+.InnerOne {
+  background-color: #99d176;
+}
+
+.InnerOne:hover {
+  background-color: #56e505;
+}
+
+.InnerTwo {
+  background-color: #d1b976;
+}
+
+.InnerTwo:hover {
+  background-color: #e6aa00;
+}
