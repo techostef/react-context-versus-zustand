@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Requirement
 <ul>
-  <li>node 18.12.1<li>
+  <li>node 18.12.1</li>
   <li>pnpm v8.10.0</li>
 </ul>
 
